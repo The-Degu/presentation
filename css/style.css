@@ -1,0 +1,14 @@
+body {
+    background-color: teal;
+    color: purple;
+    text-align: center
+}
+
+#opening {
+    text-align: center;
+    text-decoration: underline;
+    color: black
+}
+ul {
+    text-align: center
+}
