@@ -3,12 +3,18 @@ body {
     color: purple;
     text-align: center
 }
-
 #opening {
     text-align: center;
     text-decoration: underline;
-    color: black
+    color: black;
+    background-color:white
 }
 ul {
     text-align: center
+}
+p { 
+    font-family: cursive
+}
+ul {
+    font-family:cursive
 }
