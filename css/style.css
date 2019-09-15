@@ -1,6 +1,6 @@
 body {
     background-color: teal;
-    color: purple;
+    color: black;
     text-align: center
 }
 #opening {
@@ -11,10 +11,15 @@ body {
 }
 ul {
     text-align: center
-}
+}   
 p { 
     font-family: cursive
 }
 ul {
     font-family:cursive
+}
+
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    color:black
 }
