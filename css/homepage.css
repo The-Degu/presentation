@@ -1,3 +1,6 @@
 body{
-    background-color: orange
+background-image: url("images/gabu.gif");
+}
+p{
+    size:200%
 }
