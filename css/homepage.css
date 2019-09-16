@@ -1,6 +1,6 @@
 body{
-background-image: url("images/gabu.gif");
+background-image: url("csimages/gabu.gif");
 text-align: right;
-font-size: 400%
-}
-p{
+font-size: 400%;
+cursor: url(csimages/200.gif),default;
+}   
