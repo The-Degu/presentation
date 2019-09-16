@@ -1,7 +1,94 @@
 body{
     background-color:#1f2624;
-    color:#ffa759
+    color:#ffa759;
 }
 p{
     font-size: 150%
+}
+
+#img-a1 {
+    position: absolute;
+    left: 348px;
+    top: 20px;  
+    border: 2px solid powderblue;
+    border-radius: 10px;
+  }
+  #img-a2 {
+    position: absolute;
+    left: 598px;
+    top: 20px;
+    border: 2px solid powderblue;
+    border-radius: 10px;
+  }
+  #img-a3 {
+    position: absolute;
+    left: 847px;
+    top: 20px;
+    border: 2px solid powderblue;
+    border-radius: 10px;
+  }
+
+
+
+
+
+
+
+
+#img4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+
+}
+#img5{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: auto;
+}
+#img6{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+
+}
+
+#img7{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+#img8{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: auto;
+}
+#img9{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+  }
+
+
+  #gif{
+    width: 33%;
+    height: auto;
+  }
+#ending{
+    color:white;
+    text-align: right;
+    font-family: Impact, Charcoal, sans-serif
+    
 }
